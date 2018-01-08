@@ -1,0 +1,17 @@
+sample:
+- name: Microsoft Skype for Business On Premise Sample
+  path: /SkypeWebSDKOnPremSample
+  zone: office
+  description: Demonstrates using an on-premise Skype for Business server.
+  readme: https://github.com/OfficeDev/skype-web-sdk-samples/blob/master/README.md
+  generateZip: TRUE
+  isLive: TRUE
+  technologies: []
+  azureDeploy: ''
+  author: JohnAustin-MSFT
+  platforms: []
+  languages:
+  - JavaScript
+  products:
+  - Office 365
+  - Skype
