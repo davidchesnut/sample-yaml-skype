@@ -12,5 +12,6 @@ sample:
   languages:
   - JavaScript
   extensions:
-  - Office 365
-  - Skype
+    products:
+    - Office 365
+    - Skype
